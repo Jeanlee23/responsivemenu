@@ -1,2 +1,1 @@
-# responsivemenu
-Responsive menu
+# Responsive menu and footer
